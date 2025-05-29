@@ -1,4 +1,4 @@
 #Intro to Data Analysis
 
 This is my practice study from this free course at Udacity: https://www.udacity.com/enrollment/ud170
-05/29/25: Completed Lesson 1, with a minor fault in the code
+05/29/25: Completed Lesson 1
